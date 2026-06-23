@@ -1,3 +1,8 @@
+## 1.8.0 (June 24, 2026)
+
+FEATURE:
+  * Supports Terraform and AWS provider versions
+
 ## 1.7.1 (March 7, 2025)
 
 BUG:
